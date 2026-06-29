@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Risasi One Banner" width="100%">
+  <img src="images/banner.png.png" alt="Risasi One Banner" width="100%">
 </p>
 
 # 🏠 RISASI ONE
