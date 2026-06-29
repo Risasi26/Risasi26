@@ -5,6 +5,10 @@
 # 🏠 RISASI ONE
 
 ## Smart Tenant Management System
+![PHP](https://img.shields.io/badge/PHP-8.x-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Risasi One is a modern Property and Tenant Management System designed to help landlords manage tenants, rent payments, maintenance requests, billing, and reports from one centralized dashboard.
 
