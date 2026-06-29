@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hamisi Ahmadi</h1>
 
-<!--
-**Risasi26/Risasi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Web Developer from Tanzania 🇹🇿
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build modern web applications and business management systems using PHP, MySQL, React and JavaScript.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building **Risasi One – Smart Tenant Management System**
+- 🌱 Currently learning **Laravel, React & AI Integration**
+- 💻 Passionate about Full Stack Web Development
+- 🎯 Goal: Build world-class SaaS products from Africa
+- 📍 Arusha, Tanzania
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+
+### Backend
+- PHP
+- MySQL
+- REST API
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+- Laragon
+- Docker
+
+---
+
+## ⭐ Featured Projects
+
+### 🏠 Risasi One
+Smart Tenant Management System
+
+Features:
+- Tenant Management
+- Rent Management
+- Billing
+- Maintenance
+- Reports
+- Dashboard
+
+---
+
+### 📦 Inventory Management System
+
+Features:
+- Product Management
+- Stock Tracking
+- Sales Reports
+- Dashboard
+
+---
+
+### 📱 Phone Repair Management System
+
+Features:
+- Customer Management
+- Repair Tracking
+- Payment Management
+- Reports
+
+---
+
+### 🚗 Smart Parking Management System
+
+Features:
+- Vehicle Registration
+- Parking Sessions
+- Billing
+- Reports
+
+---
+
+## 📊 GitHub Stats
+
+> GitHub statistics and contribution charts will appear here after more activity on your repositories.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Risasi26
+
+---
+
+⭐ Thanks for visiting my profile!
